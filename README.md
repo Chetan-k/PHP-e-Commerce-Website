@@ -9,6 +9,6 @@ These are the logics implemented in the project:
 
 ```sh
 Technology Stack:
-PHP, AJAX, HTML5, CSS
+PHP, AJAX, phpmyadmin, HTML5, CSS
 ```
 
