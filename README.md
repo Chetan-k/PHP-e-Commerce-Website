@@ -8,7 +8,7 @@ These are the logics implemented in the project:
     -HOME: All the products are listed along with sale prices if available. AJAX oriented,            so the user can view more products within a blink of an eye without any page              reloads.
 
 ```sh
-Technology Stack
+Technology Stack:
 PHP, AJAX, HTML5, CSS
 ```
 
